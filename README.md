@@ -6,7 +6,7 @@
 
 - **找文件**：find/open xxx （但是感觉不如自带的聚焦）
 
-- **剪切板历史：**cmd + option + c 看剪切板，这个常用
+- **剪切板历史**：cmd + option + c 看剪切板，这个常用
 
 ### 有道翻译
 
@@ -17,7 +17,10 @@
 
 ### New Path & VSCode 打开
 
-参考链接：https://github.com/sunzsh/favoritesWorkflow4Alfred
+参考链接：https://github.com/sunzsh/favoritesWorkflow4Alfre
+
+例如，我一般还有加个 Typora 打开文档的快捷键，就是在 New Path 这个 Workflow 里面仿照其他指令写一个就好。
+
 
 ## Typora
 
